@@ -94,9 +94,44 @@ Analytical Problem Solving · Communication · Leadership
 
 ## 🛠️ Tech I Use
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,tensorflow,pytorch,sklearn,git,github,linux,postgres,mysql,fastapi" />
+### 🔹 Core AI & ML
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="40"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" height="40"/>
+  <img src="https://skillicons.dev/icons?i=sklearn" height="40"/>
 </p>
+
+### 🔹 Data & Analytics
+<p>
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="40"/>
+  <img src="https://img.shields.io/badge/PowerBI-1E3A5F?style=for-the-badge&logo=powerbi&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="28"/>
+</p>
+
+### 🔹 AI Engineering / LLM Tools
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1E3A5F?style=for-the-badge" height="28"/>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge" height="28"/>
+  <img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge" height="28"/>
+</p>
+
+### 🔹 App Development
+<p>
+  <img src="https://skillicons.dev/icons?i=streamlit" height="40"/>
+  <img src="https://skillicons.dev/icons?i=firebase" height="40"/>
+</p>
+
+### 🔹 Software Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=git" height="40"/>
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java" height="40"/>
+</p>
+
 
 
 ## 📂 What I'm Working On
