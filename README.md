@@ -113,7 +113,7 @@ Analytical Problem Solving · Communication · Leadership
 - Building AI-driven products  
 - Exploring RAG + structured reasoning  
 - Improving my GitHub projects  
-- Publishing tutorials & case studies  
+- Publishing case studies  
 
 ---
 
