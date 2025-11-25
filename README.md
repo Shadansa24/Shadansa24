@@ -1,7 +1,8 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shadansa24/profile-banner/main/banner.png" width="100%" alt="Profile Banner"/>
+  <img src="./assets/banner.png" width="100%" alt="Profile Banner"/>
 </p>
+
 
 <h1 align="center">Hi, I'm Shadan Almuzil 👋</h1>
 <h3 align="center">AI Engineer • Data Scientist • ML Developer</h3>
