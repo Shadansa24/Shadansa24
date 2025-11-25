@@ -83,8 +83,6 @@ Analytical Problem Solving · Communication · Leadership
 
 ---
 
-## 📊 GitHub Stats
-
 ## 🧩 What I Build
 
 - AI-powered applications (LLMs, RAG, agents)
@@ -97,23 +95,17 @@ Analytical Problem Solving · Communication · Leadership
 ## 🛠️ Tech I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,tensorflow,pytorch,sklearn,git,github,linux,mysql,C," />
+  <img src="https://skillicons.dev/icons?i=python,java,tensorflow,pytorch,sklearn,git,github,linux,postgres,mysql,fastapi" />
 </p>
 
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shadansa24&theme=default" height="160" />
-</p>
+## 📂 What I'm Working On
 
+- Building AI-driven products
+- Exploring RAG + structured reasoning
+- Improving my GitHub projects
+- Publishing case studies
 
-
----
-
-## 🗂️ What I'm Working On
-- Building AI-driven products  
-- Exploring RAG + structured reasoning  
-- Improving my GitHub projects  
-- Publishing case studies  
 
 ---
 
