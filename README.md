@@ -49,7 +49,7 @@ AI-powered Arabic financial assistant with 7–15 sec responses.
 ### 🔹 **Inventory Analytics Dashboard**  
 **Tech:** Streamlit, Python, OpenAI, Plotly  
 Real-time inventory intelligence, automated insights, and interactive analytics.  
-➡️ **Repo:** `https://github.com/Shadansa24/Inventory`
+➡️ **Repo:** `https://github.com/Shadansa24/Inventory-app`
 
 ---
 
