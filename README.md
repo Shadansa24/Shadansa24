@@ -56,14 +56,14 @@ Real-time inventory intelligence, automated insights, and interactive analytics.
 ### 🔹 **AI-Based Prayer Posture Correction**  
 **Tech:** Python, YOLOv8, CNNs, Firebase  
 93% accurate posture detection & correction system.  
-➡️ **Repo:** `https://github.com/<YOUR_USERNAME>/prayer-posture-ai`
+➡️ **Repo:** `https://github.com/Shadansa24/Hasanah`
 
 ---
 
 ### 🔹 **Global Crime Rate Analysis**  
 **Tech:** Excel, Power BI  
 Interactive BI dashboard analyzing global crime trends.  
-➡️ **Repo:** `https://github.com/<YOUR_USERNAME>/crime-analysis`
+➡️ **Repo:** `https://github.com/Shadansa24/crime-analysis`
 
 ---
 
