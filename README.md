@@ -97,7 +97,7 @@ Analytical Problem Solving · Communication · Leadership
 ## 🛠️ Tech I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,tensorflow,pytorch,sklearn,git,github,linux,mysql,kaggle,vs" />
+  <img src="https://skillicons.dev/icons?i=python,java,tensorflow,pytorch,sklearn,git,github,linux,mysql,C," />
 </p>
 
 
