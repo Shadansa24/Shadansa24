@@ -7,13 +7,17 @@
 <h3 align="center">AI Engineer • Data Scientist • ML Developer</h3>
 
 <p align="center">
+
   <a href="https://www.linkedin.com/in/shadan-almuzil/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-#2f4a71?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-1E3A5F?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="mailto: shadanalimuzil24@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-Contact-#2f4a71?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-1E3A5F?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
 </p>
+
 
 ---
 
@@ -81,13 +85,17 @@ Analytical Problem Solving · Communication · Leadership
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shadansa24&show_icons=true&theme=default&title_color=#2f4a71&icon_color=#2f4a71" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadansa24&layout=compact&title_color=#2f4a71" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shadansa24&show_icons=true&theme=transparent" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shadansa24&theme=default&ring=#2f4a71&fire=#2f4a71"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadansa24&layout=compact&theme=transparent" height="160" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shadansa24&theme=default" height="160" />
+</p>
+
 
 ---
 
