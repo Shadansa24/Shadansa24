@@ -85,13 +85,21 @@ Analytical Problem Solving · Communication · Leadership
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shadansa24&show_icons=true&theme=transparent" height="160" />
-</p>
+## 🧩 What I Build
+
+- AI-powered applications (LLMs, RAG, agents)
+- Data analytics dashboards (Power BI, Streamlit)
+- Computer vision models (YOLOv8, CNNs)
+- Predictive ML models for real-world cases
+- End-to-end data pipelines (Python, SQL)
+
+
+## 🛠️ Tech I Use
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadansa24&layout=compact&theme=transparent" height="160" />
+  <img src="https://skillicons.dev/icons?i=python,py,java,tensorflow,pytorch,sklearn,git,github,linux,postgres,mysql,azure,aws" />
 </p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Shadansa24&theme=default" height="160" />
