@@ -71,11 +71,11 @@ Interactive BI dashboard analyzing global crime trends.
 `Pandas` · `NumPy` · `Matplotlib` · `Streamlit`
 
 ### **AI / ML**
-LLMs · Deep Learning · Computer Vision  
-Model Training · Feature Engineering · Data Pipelines
+`LLMs`  · `Deep Learning` · `Computer Vision`  
+`Model Training` · `Feature Engineering` · `Data Pipelines`
 
 ### **Soft Skills**
-Analytical Problem Solving · Communication · Leadership
+`Analytical Problem Solving` · `Communication` · `Leadership`
 
 ---
 
