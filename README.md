@@ -24,7 +24,7 @@
 
 ## 🧠 About Me
 AI Engineer with hands-on experience in **LLMs, RAG systems, predictive modeling, dashboards, deep learning**, and end-to-end data solutions.  
-Strong background in **Python, SQL, ML frameworks, and data analysis**, with professional work across:
+Strong background in **Python, SQL, Java, ML frameworks, and data analysis**, with professional work across:
 
 - Applied LLMs for financial automation  
 - Built real-time Streamlit dashboards  
