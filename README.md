@@ -1,4 +1,8 @@
 <!-- HEADER BANNER -->
+<p align="center">
+  <img src="./assets/banner.png" width="100%" alt="Profile Banner"/>
+</p>
+
 
 <h1 align="center">Hi, I'm Shadan Almuzil 👋</h1>
 <h3 align="center">AI Engineer • Data Scientist • ML Developer</h3>
@@ -71,7 +75,7 @@ Interactive BI dashboard analyzing global crime trends.
 `Pandas` · `NumPy` · `Matplotlib` · `Streamlit`
 
 ### **AI / ML**
-`LLMs`  · `Deep Learning` · `Computer Vision`  
+`LLMs` · `Deep Learning` · `Computer Vision`  
 `Model Training` · `Feature Engineering` · `Data Pipelines`
 
 ### **Soft Skills**
@@ -100,7 +104,7 @@ Interactive BI dashboard analyzing global crime trends.
 
 ### 🔹 Data & Analytics
 <p>
-  <img src="https://skillicons.dev/icons?i=oracle" height="40"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40"/>
   <img src="https://img.shields.io/badge/PowerBI-1E3A5F?style=for-the-badge&logo=powerbi&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="28"/>
 </p>
