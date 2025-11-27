@@ -61,6 +61,8 @@ Real-time inventory intelligence, automated insights, and interactive analytics.
 Interactive BI dashboard analyzing global crime trends.  
 ➡️ **Repo:** `https://github.com/Shadansa24/crime-analysis`
 
+---
+
 ### 🔹 **Rice Variety Classification (ML Project)**  
 **Tech:** Python, Scikit-learn, ANN, SVM, Logistic Regression, Naive Bayes  
 Machine-learning pipeline comparing multiple models for rice variety classification.  
