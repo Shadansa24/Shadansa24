@@ -120,7 +120,7 @@ Interactive BI dashboard analyzing global crime trends.
 
 ### 🔹 App Development
 <p>
-  <img src="https://skillicons.dev/icons?i=streamlit" height="40"/>
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.png" height="40"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="28"/>
 </p>
 
