@@ -65,6 +65,21 @@ Real-time inventory intelligence, automated insights, and interactive analytics.
 Interactive BI dashboard analyzing global crime trends.  
 ➡️ **Repo:** `https://github.com/Shadansa24/crime-analysis`
 
+### 🔹 **Rice Variety Classification (ML Project)**  
+**Tech:** Python, Scikit-learn, ANN, SVM, Logistic Regression, Naive Bayes  
+Machine-learning pipeline comparing multiple models for rice variety classification.  
+SVM achieved **0.99 accuracy**, the best among all models.  
+➡️ **Repo:** `https://github.com/Shadansa24/rice-classification`
+
+---
+
+### 🔹 **Veterinary Clinic Database System**  
+**Tech:** Oracle SQL, ERD, Relational Modeling  
+Complete relational database for managing a veterinary clinic: owners, pets, employees, doctors, diagnoses & treatments.  
+Built with full normalization (1NF–3NF) and functional dependencies.  
+➡️ **Repo:** `https://github.com/Shadansa24/vet-clinic-database`
+
+
 ---
 
 ## 🛠️ Technical Skills
