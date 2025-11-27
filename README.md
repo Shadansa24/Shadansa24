@@ -105,7 +105,7 @@ Interactive BI dashboard analyzing global crime trends.
 ### 🔹 Data & Analytics
 <p>
   <img src="https://skillicons.dev/icons?i=python" height="40"/>
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40"/>
+  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/PowerBI-1E3A5F?style=for-the-badge&logo=powerbi&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="28"/>
 </p>
@@ -121,7 +121,7 @@ Interactive BI dashboard analyzing global crime trends.
 ### 🔹 App Development
 <p>
   <img src="https://skillicons.dev/icons?i=streamlit" height="40"/>
-  <img src="https://skillicons.dev/icons?i=firebase" height="40"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="28"/>
 </p>
 
 ### 🔹 Software Engineering
