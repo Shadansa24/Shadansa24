@@ -154,13 +154,6 @@ Built with full normalization (1NF–3NF) and functional dependencies.
 - Improving my GitHub projects
 - Publishing case studies
 
-
----
-
-## 📫 Connect with Me
-- **LinkedIn:** https://www.linkedin.com/in/shadan-almuzil/  
-- **Email:**  shadanalimuzil24@yahoo.com  
-
 ---
 
 <p align="center">
